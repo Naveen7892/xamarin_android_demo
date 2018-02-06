@@ -4,4 +4,3 @@ Phoneword app (Demo mobile app) to translate word to numbers for android using X
 Eg: 
 Input: Xamarin
 Output: 9262746
-

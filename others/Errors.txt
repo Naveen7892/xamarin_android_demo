@@ -1,0 +1,8 @@
+mipmap is not shown in project > right click > Properties > Android manifest > Application icon
+
+Sol:
+Add this in Project > properties > Assemblyinfo.cs:
+
+[assembly: Application (Icon = "@mipmap/icon")]
+
+==================================
